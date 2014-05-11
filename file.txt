@@ -1,0 +1,4 @@
+Model                   SerialNumber                              
+ST9500420AS ATA Device  2020202020202020202020205635424a364e4336  
+
+
